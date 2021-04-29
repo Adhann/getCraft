@@ -210,7 +210,7 @@ export default function Footer() {
       </div>
       <div className="flex py-5 justify-between mx-7 lg:mx-28 border-white border-t">
         <div>
-          <img src="https://assets.website-files.com/5f17b8c284f5ec1135c789d9/5f2b876e9f1e328695892abd_GetCraft%20logo%20white.png" alt="" className="mb-2"/>
+          <img src="https://assets.website-files.com/5f17b8c284f5ec1135c789d9/5f2b876e9f1e328695892abd_GetCraft%20logo%20white.png" alt="" className="mb-2 w-28 lg:w-36"/>
           <div className="block text-white text-xs">Copyright © 2021 GetCRAFT</div>
         </div>
         <div className="flex justify-between">
